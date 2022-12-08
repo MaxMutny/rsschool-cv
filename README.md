@@ -1,1 +1,1 @@
-https://MaxMutny.github.github.io/rsschool-cv/g
+https://MaxMutny.github.github.io/rsschool-cv/
