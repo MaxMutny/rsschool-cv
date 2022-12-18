@@ -95,4 +95,11 @@ body {
     
 }
  
+a:hover {
+   color: red;
+ }
+ 
+.a_cv:hover {
+   color: red;
+ }
  
