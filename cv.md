@@ -19,4 +19,4 @@ print(a, b)
 - Russian
 - Belorussian
 - Polish (A1)
-- English (A2)
+- English (A1)
